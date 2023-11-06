@@ -27,10 +27,13 @@ The code can be used to replicate our analysis or build upon it.
 ### Data Dictionary
 | Column| Description|                   
 |-------|------------|
-|  | |
-|  | | 
-|  | | 
-|  | | 
+| Year | The year the data was collected |
+| Region | The U.S. region the data belongs to: Northeast, South, Midwest, and West| 
+| Class | The broad class category to which the data belongs: Obesity/Weight Status, Fruits and Vegetables, Physical Activity | 
+| Age | The age group or range to which the data is related | 
+| Education | The level of education of the sample | 
+| Gender | The gender of the sample | 
+| Income | The income category or level of the sample | 
 
 
 ## FIGURES
