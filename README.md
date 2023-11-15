@@ -1,17 +1,18 @@
 # DS 4002 Project 3
 
 ## Table of Contents
-[SRC](#SRC)  - 
+[SRC](#SRC)  - This section contains the scripts from our exploratory data analysis phase, and main the analysis phase. The EDA scripts can be used to replicate our initial graphs, while the analysis script can be run to display our main investivation.
 
-[DATASET](#Dataset)  - 
+[DATASET](#Dataset)  - This section contains the original "cdc_npao.csv" dataset obtained from Data World. It also contains "clean.csv", which is the cleaned up dataset to suit our project needs.
 
-[FIGURES](#Figures)  - 
+[FIGURES](#Figures)  - This section contains all figures from our exploratory data analysis phase and main analysis phase, as well as descriptions of their key takeaways.
 
 [References](#References)  - This section contains all references that were used throughout the project, as well as links to the MI1 and MI2 Assignments.
 
 ## SRC
 
 ### Installing/Building Code
+To install/build the code, VSCode and Python is required. Then, the scripts in the 'src', 'model', and 'data' folder are required to run the code. 
 
 Required libraries:
 - 
